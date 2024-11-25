@@ -15,3 +15,37 @@ h1 {
 #result .red {
   color: #e74c3c;
 }
+h1{
+  margin-top:  100px;
+  color: white;}
+p{
+  color: white;}
+.cssbotonelegir {
+  background-color: green;
+  margin: 15px;
+  height: 25px;}
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 15px;
+  background-image: 
+  url("https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/curiosidades.batanga.com/files/5-cosas-sobre-el-espacio-y-la-materia-que-debemos-tener-claras.jpg");}
+.cssregresiva{
+  background-color: yellow;
+  margin: 15px;}
+.cssdetalles{
+  background-color: white;
+  width: 40px;
+  height: 25px;
+  position: relative;
+  left:30px;
+  margin: 15px;}
+.cssletras{
+  background-color: aqua;
+  margin: 15px;}
+.reset{
+  background-color: red;
+  margin: 15px;
+  height: 25px;}
